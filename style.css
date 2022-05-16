@@ -65,6 +65,7 @@ nav{
     width: 40%;
     display: flex;
     justify-content: space-between;
+    margin-left: 8%;
 }
 .menu a{
     color: white;
@@ -583,6 +584,7 @@ nav .nav-content-mobile-view .signup-btn:hover{
     /* Content Mobile View start */
     .portfolio{
         grid-template-columns: auto;
+        width: 90%;
     }
     .portfolio div{
         height: 400px;
